@@ -2,7 +2,7 @@
 
 I participated as a guest speaker in "TechTalks with TFN, Future of AI for Good" in Homegrown, London. 
 
-I’ve been doing research in Хэштег#ConsciousAI for the last 6 years and in my talk, I shared the novel Хэштег#AIArchitecture with the ability to empathize, understand, and self-awareness, thus forging deeper connections with human experiences. The goal of my AI initiatives goes beyond task-oriented AI; we're nurturing AI capable of understanding and relating to human emotions and situations. I believe this can help to train AI with the ability to create, and not just generate information.
+I’ve been doing research in Хэштег#ConsciousAI for the last 6 years and in my talk, I shared the novel AI Architecture with the ability to empathize, understand, and self-awareness, thus forging deeper connections with human experiences. The goal of my AI initiatives goes beyond task-oriented AI; we're nurturing AI capable of understanding and relating to human emotions and situations. I believe this can help to train AI with the ability to create, and not just generate information.
 
 I also shared the progress in our development at the Kosmos Foundation of robots for manufacturing and engineering tasks. These robots, designed for effective collaboration with human workers, enhance productivity and foster a collaborative work environment.
 
